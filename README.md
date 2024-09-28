@@ -1,2 +1,4 @@
 # Big-Data-Bitcoin-Volatility-analysis
 Big Data Project for analysing bitcoin volatility  
+
+This project, developed as part of the "Modern Data Architectures in Big Data I" course during my Master’s program, involved analyzing Bitcoin’s market dynamics through key technical indicators like the Relative Strength Index (RSI), volatility, and trading volume. We worked with real-time data from Binance's BTC/USDT trading pair, utilizing Apache NiFi to ingest the data and store it in HDFS for subsequent batch processing. Apache Spark was then used for data processing, and Python libraries such as Pandas and Plotly helped with analysis and visualizing the results. The analysis provided valuable insights into market trends, trading signals, and potential reversals by examining the interplay between RSI, volatility fluctuations, and volume shifts. For additional details, refer to the supporting documents included in this repository.
